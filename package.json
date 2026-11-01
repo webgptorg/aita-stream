@@ -34,5 +34,9 @@
             "url": "https://github.com/webgptorg/aita-stream/blob/main/README.md#%EF%B8%8F-contributing"
         }
     ],
-    "description": "First, run the development server:"
+    "description": "First, run the development server:",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/webgptorg/aita-stream.git"
+    }
 }
